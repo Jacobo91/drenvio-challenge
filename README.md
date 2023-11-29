@@ -1,12 +1,12 @@
 # CHALLENGE DESCRIPTIONS
 
-Althought the challenge was to only create the API, this project encompasses a fullstack configuration using MERN Stack, in the instructions you will find how to start it and the dependencies to install (note: no front end has been coded, but the configuration is ready to start one).
+Although the challenge was to only create the API, this project encompasses a fullstack configuration using MERN Stack, in the instructions you will find how to start it and the dependencies to install (note: no front end has been coded, but the configuration is ready to start one).
 
 ### API Testing:
 
     - if you have the rapidAPI Client extension in VS code you can use the following:
         - GET http://localhost:5000/products (returns all products in stock)
-        - GET http://localhost:5000/users (returns all users - used to see the structure althought it can be looked at the compass using the URI provided -)
+        - GET http://localhost:5000/users (returns all users - used to see the structure although it can be looked at the compass using the URI provided -)
         - GET ​http://localhost:5000/price/1/Nike Air Max 90 (returns the special price for this person)
         - GET ​http://localhost:5000/price/2/Nike Air Max 90 (returns the base price, because this person has no special price for this reference)
 
