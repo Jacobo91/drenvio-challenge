@@ -5,6 +5,12 @@ Although the challenge was to only create the API, this project encompasses a fu
 ### API Testing:
 
     - if you have the rapidAPI Client extension in VS code you can use the following:
+
+    cd server
+    npm run dev (to start the server)
+
+    go to the rapidAPI extension in the left side menu and:
+
         - GET http://localhost:5000/products (returns all products in stock)
         - GET http://localhost:5000/users (returns all users - used to see the structure although it can be looked at the compass using the URI provided -)
         - GET ​http://localhost:5000/price/1/Nike Air Max 90 (returns the special price for this person)
